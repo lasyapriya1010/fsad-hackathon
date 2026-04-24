@@ -1,2 +1,0 @@
-# fsad-hackathon
-fsad-hackathon
